@@ -3,7 +3,13 @@
  * This CSS file defines the style for index.html ICS20-Assignment-01-HTML
 */
 
-h2 {text-align: center;}
+body {
+  background-color:powderblue;
+}
+
+h2 {
+  text-align: center;
+}
 
 .center {
   display: block;
@@ -14,5 +20,5 @@ h2 {text-align: center;}
 
 p1 {
   font-family: cursive;
-  font-size: 18px;
+  font-size: 16px;
 }
