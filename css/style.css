@@ -19,9 +19,9 @@ h2 {
 }
 
 q {
+  text-align: center; 
   font-family: cursive;
-  font-size: 16px;
-  text-align: center;
+  font-size: 20px;
 }
 
 .column {
@@ -45,4 +45,22 @@ q {
   padding-left: 15pt;
   padding-right: 15pt;
   padding-top: 15pt;
+}
+
+p {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+
+ul {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+
+h4 {
+  color: black;
+  font-family: Georgia, sans-serif;
+  font-size: 35px;
 }
